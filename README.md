@@ -2,7 +2,7 @@
 RichAzerty est une disposition clavier conforme AZERTY intégrant les caractères manquant de la typographie et de la langue française (capitales accentuées, c cédille capitale, ligatures, tirets sur cadratin, etc.) ainsi que d’autres caractères usuels (grecs, espagnols, etc.), bien d’autres symboles (mathématiques, etc.) et diacritiques.
 >Entre autres RichAzerty intègre les caractères suivants, accessibles directement au clavier :
 É, È, À, Ç, Ù, Æ, Œ, Ế, Ề, Ế, Ễ, Ế, ß, €, ®, ™, ¥, –, —, Ø, ≤, ≥, «, », ©, Ñ, ¿, …, ¡, ÷, “, ”, ‘, ’, ‰, α β, δ, ε, φ, γ, η, ι, θ, κ, λ, π, χ, ρ, σ, τ, υ, ω, ξ, ζ, ¹, ², ³, ⁴, ⁵, ⁶, ⁷, ⁸, ⁹, etc.
-.
+
 ## DESCRIPTION
 Intuitive et facile à installer, RichAzerty est une disposition clavier opensource conforme à la disposition AZERTY auquel il apporte un certain nombre d’améliorations comme l’intégration des majuscules et capitales accentuées, de l’espaces insécable, de l’espace fine insécable, des tirets sur cadratin et demi-cadratin, des guillemets français, des points de suspension, des ligatures, des exposants, symboles mathématiques et de plusieurs diacritiques, des caractères de l’alphabet grec (à travers des touches mortes) et de plusieurs autres caractères. RichAzerty est publié sous la General Public Licence (GPL) v3 et disponible en deux versions, dont l’une, portable (utilisable sans installation) et l’autre destinée à l’installation.
 RichAzerty est encore en cours de développement, en conséquence la version actuelle n’est disponible que pour les systèmes d’exploitation Windows (Xp, Vista, Seven, Win 8 et 8.1) x86 et X64.
@@ -32,6 +32,7 @@ Les deux versions (portable et installable) s’exécutent différemment, mais i
 * Version installable
   * Windows Xp, Vista, Seven, Win. 8, Win. 8.1 (x86 et x64)
   * Privilèges Administrateurs
+
 ## INSTALLATION
 Cette partie est encore peu documentée et sera mieux développée d’ici peu.
 * Version portable
@@ -52,7 +53,7 @@ La disposition clavier RichAzerty conserve les caractères de l’AZERTY sans en
 Ce choix qui ravira les développeurs web entre autres ne conviendra sans doute pas aux mathématiciens. Pour pallier à ce désagrément, les caractères ¹, ², ³, ⁴, ⁵, ⁶, ⁷, ⁸, ⁹ et ⁰ ont été intégrés dans la disposition et sont accessibles par ^ + Chiffre voulu.
 Dans la disposition, certaines touches possèdent jusqu’à quatre (4) niveaux de caractères. Hormis le premier niveau (accès direct), les autres sont accessibles par combinaison avec les touches Shift (Maj sur certains claviers) et AltGr.
 
-Certains caractères sont accessibles grâce à des touches mortes, ce sont des touches dont l’appui modifie le comportement de la prochaine touche appuyée (c’est l’exemple de la touche portant les accents CIRCONFLEXE et TRÉMA). *La section **TOUCHES MORTES** du fichier [**documentation.pdf**]() décrit plus en détails les touches mortes du RichAzerty.*
+Certains caractères sont accessibles grâce à des touches mortes, ce sont des touches dont l’appui modifie le comportement de la prochaine touche appuyée (c’est l’exemple de la touche portant les accents CIRCONFLEXE et TRÉMA). *La section __TOUCHES MORTES__ du fichier [__documentation.pdf__]() décrit plus en détails les touches mortes du RichAzerty.*
 
 Les images suivantes présentent les différents caractères de la disposition. Sur ces images, les couleurs des caractères sont significatives et indiquent leurs méthodes de saisie comme illustrée ci-dessous.
 
